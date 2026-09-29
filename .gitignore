@@ -68,3 +68,10 @@ vcpkg_installed/
 Testing/
 .cache/
 .vs/
+
+# Visual Studio build & user files
+x64/
+Debug/
+Release/
+*.user
+*.suo
