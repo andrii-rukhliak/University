@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "prac_1\\x64\\Debug\\prac_1.obj",
+            "outputs": [
+                "prac_1\\x64\\Debug\\prac_1.cpp.obj.dt.module.json",
+                "prac_1\\x64\\Debug\\prac_1.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
